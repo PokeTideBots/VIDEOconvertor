@@ -27,7 +27,7 @@ help_text = """**v1.4**
 
 •`Trim` - cut your videos"""
 
-source_text = "**Deploy your own bot**"
+source_text = "🐳"
 
 DEV = "https://t.me/PokeTide"
 
