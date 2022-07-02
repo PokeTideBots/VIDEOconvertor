@@ -50,7 +50,7 @@ async def source(event):
     await event.edit(source_text,
                     buttons=[[
                          Button.url("Channel", url="https://t.me/PokeTide"),
-                         Button.url("Support Group", url="https://t.me/Pokemon_Group_Telegramj")]])
+                         Button.url("Support Group", url="https://t.me/Pokemon_Group_Telegram")]])
                          
                     
 @Drone.on(events.callbackquery.CallbackQuery(data="help"))
