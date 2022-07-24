@@ -12,7 +12,7 @@ API_HASH= "97e184dc9c07513de148002859aef2b2"
 BOT_TOKEN= "5362862681:AAHksypiJVa_UZV78rZqOaGFBDu4BPK-fVg"
 BOT_UN= "PokeTideVideoConverterBot"
 LOG_CHANNEL= "PokeTideUploads"
-ACCESS_CHANNEL= -1001409710934
+ACCESS_CHANNEL= -1001430065120
 AUTH_USERS= 1165699179
 MONGODB_URI= "mongodb+srv://Mailmirror:fake100@cluster0.5ystf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 FORCESUB= -1001726913223
